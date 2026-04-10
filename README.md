@@ -166,6 +166,18 @@ iris-eda-internship/
 ├── README.md
 └── requirements.txt
 ```
+---
+
+##  Screenshoots
+
+<img width="1057" height="709" alt="image" src="https://github.com/user-attachments/assets/b2b7ce7d-441f-44f6-9837-1d075d71e71b" />
+<img width="1643" height="724" alt="image" src="https://github.com/user-attachments/assets/41d089e0-3cd7-471c-83d6-a7c1bd7d103b" />
+<img width="807" height="700" alt="image" src="https://github.com/user-attachments/assets/7378ece0-65ac-4e11-b8d9-e80a4c5a058d" />
+
+
+
+---
+
 
 ---
 

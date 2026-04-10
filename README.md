@@ -1,6 +1,6 @@
 # Iris Dataset — Exploratory Data Analysis & Classification
 
-## 📌Project Overview
+## Project Overview
 
 This project presents a comprehensive **Exploratory Data Analysis (EDA)** and **machine learning classification pipeline** on the Iris dataset. The objective is to analyze feature relationships, identify key patterns, and build a predictive model to classify iris flower species based on measurable attributes.
 
